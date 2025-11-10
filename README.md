@@ -33,10 +33,6 @@ This project provides a **CSV file uploader** with background processing, idempo
 1. Clone the repository:
 
 ```bash
-composer install
-cp .env.example .env
-php artisan key:generate
-php artisan migrate
-php artisan storage:link
+
 git clone <your-repo-url>
 cd <your-project-folder>
