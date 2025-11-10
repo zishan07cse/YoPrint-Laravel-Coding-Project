@@ -36,3 +36,5 @@ This project provides a **CSV file uploader** with background processing, idempo
 
 git clone <your-repo-url>
 cd <your-project-folder>
+composer install
+
